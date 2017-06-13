@@ -4,6 +4,10 @@ import os, socket
 from scapy.all import *
 from collections import OrderedDict
 
+if (len(sys.argv)<2):
+        print "Usage: sys.argv[0] <# packets to sniff>\n"
+        exit()
+
 i = 0
 layers = []
 counts = {}
