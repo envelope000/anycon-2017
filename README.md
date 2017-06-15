@@ -23,9 +23,6 @@
 
 <h3>ESP8266 & MicroPython - Covert IoT FTW!</h3>
 
-  <b>esptool:</b> git clone https://github.com/espressif/esptool/
-  <b>MicroPython:</b> Latest at http://micropython.org/download#esp8266
-  <b>MP Tutorial:</b> http://docs.micropython.org/en/latest/esp8266/esp8266/quickref.html
-  
-  <b>main.py, boot.py</b> - load onto ESP8266 via WebREPL for exfil platform
-  
+See https://github.com/envelope000/anycon-2017/esp8266
+
+
