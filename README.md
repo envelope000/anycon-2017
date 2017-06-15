@@ -1,5 +1,5 @@
 # anycon-2017
-ANYCon 2017 HHV Projects
+ANYCon 2017
 
 DIY Spy - Covert Channels with Scapy & Python
 
@@ -21,5 +21,14 @@ Talk Code Samples
   
   rcv.py - To be updated
   For "Eve" host: Will listen for beacons, pull Bob IP from DNS beacon, send commands from a file to Bob via DNS answers, and listen on port 80 for HTTP GET requests containing the encoded stdout results of the commands.
- 
- 
+
+ANYCon HHV
+
+ESP8266 & MicroPython - Covert IoT FTW!
+
+  esptool: git clone https://github.com/espressif/esptool/
+  MicroPython: Latest at http://micropython.org/download#esp8266
+  MP Tutorial: http://docs.micropython.org/en/latest/esp8266/esp8266/quickref.html
+  
+  main.py, boot.py - load onto ESP8266 via WebREPL for exfil platform
+  
