@@ -8,5 +8,3 @@
 <br>
   Get FTDI VCOM drivers for your OS: http://www.ftdichip.com/Drivers/VCP.htm <br>
 
-
-
