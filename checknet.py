@@ -30,3 +30,4 @@ sortedcounts = OrderedDict(sorted(counts.items(), key=lambda x: x[1], reverse=Tr
 for prot in sortedcounts:
 	if (prot != None):
 		print prot, sortedcounts[prot]
+ 
