@@ -23,6 +23,6 @@
 
 <h3>ESP8266 & MicroPython - Covert IoT FTW!</h3>
 
-See https://github.com/envelope000/anycon-2017/esp8266
+See https://github.com/envelope000/anycon-2017/tree/master/esp8266
 
 
