@@ -1,5 +1,12 @@
 <h1>ESP8266</h1>
 <br>
+  <b>esptool:</b> git clone https://github.com/espressif/esptool/
+  <b>MicroPython:</b> Latest at http://micropython.org/download#esp8266
+  <b>MP Tutorial:</b> http://docs.micropython.org/en/latest/esp8266/esp8266/quickref.html
+  <b>MP Networking:</b> http://docs.micropython.org/en/latest/esp8266/esp8266/tutorial/network_basics.html<br>
+  <b>main.py, boot.py</b> - load onto ESP8266 via WebREPL for exfil platform
+
 Get FTDI VCOM drivers for your OS: http://www.ftdichip.com/Drivers/VCP.htm<br>
-Get esptool: pip install esptool, or https://github.com/espressif/esptool<br>
-Download latest MicroPython binary: http://micropython.org/download#esp8266<br>
+
+
+
