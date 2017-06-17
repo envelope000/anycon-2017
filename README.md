@@ -14,10 +14,10 @@
   
   <i>(Basic CNC implementation)</i><br>
   <b>cmd.py</b> - To be updated<br>
-  For "Bob" host: Will establish a beacon to Eve CNC via DNS, wait for a DNS-encoded command, and shell out to system. Results are sent back to Eve via an encoded HTTP request in increments.
+
   
   <b>rcv.py</b> - To be updated<br>
-  For "Eve" host: Will listen for beacons, pull Bob IP from DNS beacon, send commands from a file to Bob via DNS answers, and listen on port 80 for HTTP GET requests containing the encoded stdout results of the commands.
+
 
 <h2>ANYCon HHV</h2>
 
