@@ -13,11 +13,9 @@
   Will send contents of a file in increments via SSDP packet contents, encoding file data in Base64 and adding to SSDP payload.
   
   <i>(Basic CNC implementation)</i><br>
-  <b>cmd.py</b> - To be updated<br>
-
+  <b>cmd.py</b> - Eve - send commands via DNS, and sniff HTTP responses
   
-  <b>rcv.py</b> - To be updated<br>
-
+  <b>rcv.py</b> - Bob - take shell commands, run, and send stdout via HTTP GET request
 
 <h2>ANYCon HHV</h2>
 
